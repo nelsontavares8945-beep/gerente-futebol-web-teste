@@ -1,0 +1,41 @@
+{
+  "id": "/gerente-futebol-web-teste/",
+  "name": "Gerente de Futebol — Teste",
+  "short_name": "Gerente Teste",
+  "description": "Jogo de gerenciamento de futebol com clubes brasileiros, elenco, treinos, táticas e competições.",
+  "lang": "pt-BR",
+  "start_url": "/gerente-futebol-web-teste/?source=installed-app",
+  "scope": "/gerente-futebol-web-teste/",
+  "display": "standalone",
+  "display_override": [
+    "fullscreen",
+    "standalone"
+  ],
+  "orientation": "landscape",
+  "theme_color": "#10241c",
+  "background_color": "#0c1712",
+  "categories": [
+    "games",
+    "sports"
+  ],
+  "icons": [
+    {
+      "src": "/gerente-futebol-web-teste/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/gerente-futebol-web-teste/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/gerente-futebol-web-teste/icon-512-maskable.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
